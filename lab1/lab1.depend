@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1762339968 source:/home/jacck/iti/lab1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1762340059 source:/home/jacck/iti/lab1/second.c
+
+1762340679 source:/home/jacck/iti/lab1/forth.c
+

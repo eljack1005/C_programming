@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1765135877 source:/home/jacck/iti/lab5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<termios.h>
+	<unistd.h>
+	<string.h>
+

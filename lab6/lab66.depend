@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1765275313 source:/home/jacck/iti/lab66/main.c
+	<stdio.h>
+	<stdlib.h>
+	"myheaders.h"
+
+1765281459 /home/jacck/iti/lab66/myheaders.h
+	<stdio.h>
+
+1765281503 source:/home/jacck/iti/lab66/myheaders.c
+	"myheaders.h"
+	<stdio.h>
+	<stdlib.h>
+	<termios.h>
+	<unistd.h>
+	<string.h>
+
